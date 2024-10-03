@@ -79,3 +79,8 @@ document.addEventListener('DOMContentLoaded', function() {
 console.log('Страница загружена');
 });
 ```
+## Прогрес  
+[x]~~Установить текстовый редактор~~
+[x]~~Изучить основы Markdown~~
+[ ] Создать свой первый веб-сайт
+## Ссылки
